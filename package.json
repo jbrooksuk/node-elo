@@ -1,0 +1,22 @@
+{
+  "name": "node-elo",
+  "version": "0.0.1",
+  "description": "Provides an Elo Rating system",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --require should --reporter spec"
+  },
+  "repository": "git://github.com/jbrooksuk/node-elo.git",
+  "keywords": [
+    "elo",
+    "rating",
+    "ranking",
+    "algorithm"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "author": "James Brooks <jbrooksuk@me.com>",
+  "readmeFilename": "README.md"
+}
