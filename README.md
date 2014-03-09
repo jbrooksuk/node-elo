@@ -1,4 +1,4 @@
-# nodElo
+# Node-Elo
 Elo rating for Node.js
 
 # License
